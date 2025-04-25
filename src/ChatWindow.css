@@ -1,0 +1,103 @@
+/* ChatWindow.css - Indian Royal Theme */
+
+.chat-window {
+  background: linear-gradient(to right, #fff8e1, #ffecd2);
+  border: 3px solid #a0522d;
+  border-radius: 16px;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 24px;
+  box-shadow: 0 10px 25px rgba(138, 54, 15, 0.3);
+  font-family: 'Martel Sans', serif;
+}
+
+.chat-header {
+  background-color: #8b0000;
+  color: #fff8e1;
+  padding: 16px;
+  border-radius: 12px 12px 0 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 3px solid #daa520;
+}
+
+.message-container {
+  max-height: 400px;
+  overflow-y: auto;
+  background-color: #fff5e6;
+  padding: 16px;
+  border: 2px dashed #d2691e;
+  border-radius: 12px;
+  margin-top: 12px;
+}
+
+.message {
+  margin-bottom: 12px;
+  padding: 12px;
+  border-radius: 10px;
+  max-width: 70%;
+  word-wrap: break-word;
+  line-height: 1.5;
+  font-size: 1rem;
+}
+
+.message.sent {
+  background-color: #f5deb3;
+  color: #4b2e2e;
+  margin-left: auto;
+  border: 2px solid #cd853f;
+}
+
+.message.received {
+  background-color: #fff;
+  color: #2f1b0c;
+  margin-right: auto;
+  border: 2px solid #deb887;
+}
+
+.typing-indicator {
+  font-style: italic;
+  color: #8b0000;
+  margin-top: 8px;
+  text-align: left;
+}
+
+.input-container {
+  display: flex;
+  margin-top: 20px;
+  gap: 12px;
+}
+
+input[type="text"] {
+  flex: 1;
+  padding: 10px 16px;
+  border: 2px solid #a0522d;
+  border-radius: 12px;
+  font-size: 1rem;
+  background-color: #fffdf7;
+  font-family: inherit;
+}
+
+button.send-btn {
+  padding: 10px 20px;
+  background-color: #8b0000;
+  color: #fff8e1;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+.chat-window {
+  background-image: url('https://www.transparenttextures.com/patterns/white-wall-3.png');
+  background-color: #fff8e1;
+  background-repeat: repeat;
+  border: 3px solid #a0522d;
+  border-radius: 16px;
+}
+
+button.send-btn:hover {
+  background-color: #a52a2a;
+}
