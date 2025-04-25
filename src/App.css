@@ -1,0 +1,28 @@
+body {
+  font-family: 'Georgia', serif;
+  background: linear-gradient(to right, #f2e6ff, #e6ccff);
+  margin: 0;
+  padding: 0;
+  color: #3e0066;
+}
+
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  background-color: #800080;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #9932cc;
+}
