@@ -81,3 +81,9 @@ Encourages digital inclusivity, accessibility, and resource discovery for disabl
 
 output:
 
+![Image](https://github.com/user-attachments/assets/f1cc0d6e-4f40-41cc-b919-6707a461df08)
+![Image](https://github.com/user-attachments/assets/2adc84af-3e10-4171-bedc-1bcd870cbc9d)
+![Image](https://github.com/user-attachments/assets/ce649798-e89b-4fcc-8a3f-70ca3a964fc4)
+![Image](https://github.com/user-attachments/assets/ede9d5f7-930c-41c7-acd8-19a2eaa5b8bc)
+![Image](https://github.com/user-attachments/assets/17a941e3-1c80-4235-af52-e7f36e90f713)
+![Image](https://github.com/user-attachments/assets/ea213e8f-006c-47ca-a174-3a799ee62f91)
